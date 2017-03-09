@@ -2,6 +2,32 @@
 
 Organise bowling games with a Telegram bot
 
+# Commands
+
+## /bowling
+
+Schedule a game for the next day one would be scheduled
+
+## /me
+
+Say you're coming, use +1 to bring an extra, or +2 for 2. etc
+
+## /sub count
+
+Say one of your extras aren't coming
+
+## /out
+
+Say you're no longer coming
+
+## /count
+
+How many are coming
+
+## /who
+
+List of people coming
+
 # Environment Variables
 
 ## API_KEY
