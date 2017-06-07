@@ -21,7 +21,7 @@ package main
 import (
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/asdine/storm"
 	"github.com/asdine/storm/q"
 	"github.com/satori/go.uuid"
